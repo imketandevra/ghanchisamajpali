@@ -4,7 +4,7 @@ const Dashbaord = () => {
   return (
     <div style={{}}>
       <Typography style={{ fontFamily: 'cursive', fontSize: 60, fontWeight: 600 }}>
-        Ghanchi Samaj Pali Rajasthan fdskjfjaksd
+        Ghanchi Samaj Pali Rajasthan
       </Typography>
     </div>
   );
